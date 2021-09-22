@@ -1,37 +1,37 @@
 body {
-    margin : 0;
-    padding : 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    min-width: 400px;
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
 }
 
 input {
-    width: 100%;
-    padding: 10px;
-    box-sizing: border-box;
-    border: 1px solid navy;
-    margin-bottom: 4px;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid navy;
+  margin-bottom: 4px;
 }
 
 button {
-    background: navy;
-    color: white;
-    padding: 10px 20px;
-    border: 1px solid navy;
-    font-weight: bold;
+  background: navy;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid navy;
+  font-weight: bold;
 }
 
 #delete-button {
-    background: white;
-    color: navy;
+  background: white;
+  color: navy;
 }
 
 ul {
-    margin-top: 20px;
-    list-style: none;
-    padding-left: 0;
+  margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
 }
 
 a {
-    color: navy;
+  color: navy;
 }
